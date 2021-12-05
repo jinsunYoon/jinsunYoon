@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jinsun%Yoon&fontSize=60)
-
 <h1>🐤 Wellcome to Sunnieee's profile</h1>
 <h4>Hi there 👋</h4>
 
